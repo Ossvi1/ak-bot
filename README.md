@@ -20,7 +20,7 @@
   </a>
 
 ```bash
-> git clone https://github.com/Samu330/NyanBot
+> git clone https://github.com/Ossvi1/ak-bot- negro colora =% 23ff0000 y colorB =% 23000000 & style = for-the-badge " 
 ```
 
 ## Inicia la Instalacion:
