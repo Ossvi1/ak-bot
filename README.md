@@ -26,11 +26,16 @@
 ## Inicia la Instalacion:
 
 ```bash
-> cd NyanBot
-> bash install.sh
-```
+-pkg upgrade && update
+-pkg install git
+-pkg install bash
+-git clone https://github.com/Ossvi1/ak-bot
+-cd NyanBot
+-bash install.sh
+-node samu
+-npm
 
-### Para correr el bot usa:
+### Para correr el bot usa
 ```bash
 > npm start
 ```
