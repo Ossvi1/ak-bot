@@ -24,17 +24,17 @@
 ```
 
 ## Inicia la Instalacion:
-
+''
 ```bash
 -pkg upgrade && update
 -pkg install git
 -pkg install bash
 -git clone https://github.com/Ossvi1/ak-bot
--cd NyanBot
+-cd ak-bot
 -bash install.sh
 -node samu
 -npm
-
+''
 ### Para correr el bot usa
 ```bash
 > npm start
